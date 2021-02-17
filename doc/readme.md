@@ -27,3 +27,5 @@ todo
 
 # Маршрутизація
 todo
+
+Приклад застосування [тут](https://github.com/anrysliusar/angular-wiki-api)
